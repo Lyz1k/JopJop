@@ -9,6 +9,4 @@ jobs:
 
     steps:
       - name: Print message
-        run: echo "Pipeline works."
-
-
+        run: echo "Pipeline works!"
