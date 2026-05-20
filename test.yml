@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-     - name: Print message
-       run: echo "Pipeline works!"
+      - name: Print message
+      run: echo "Pipeline works!"
